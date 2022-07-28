@@ -1,4 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
+## HelloUserApp_Intro_to_Mobile_App_Development
 
 ### App Description
 Introduction Application with basic user interaction
