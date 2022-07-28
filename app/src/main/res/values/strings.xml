@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorldApp</string>
+    <string name="hello_from_vedant">Hello from Vedant!</string>
+    <string name="change_text_color">CHANGE TEXT COLOR</string>
+</resources>
